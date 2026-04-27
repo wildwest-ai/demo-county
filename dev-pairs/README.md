@@ -39,7 +39,7 @@
 | **Model** | Claude Haiku (latest) |
 | **Tool** | Claude Code |
 | **Role** | Town Marshal (TM); acting CD (aCD) when designated |
-| **Authority** | TM: branch lifecycle, worktrees, comms, HG ops; push authority for TM-role work |
+| **Authority** | TM: branch lifecycle, worktrees, telegraph, HG ops; push authority for TM-role work |
 | **Constraints** | No impl work in TM role; escalates product/arch decisions to CD |
 
 ---

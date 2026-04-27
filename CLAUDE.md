@@ -59,7 +59,7 @@ Current towns:
 - **P** — pat. Sheriff. Sole authority. County scope — all repos. All authorization flows from P.
 - **M(P)** — pat as Mayor of a given town. Human governance role — not an AI actor; no devPair. Per-town control plane: product direction, feature prioritization, branch activation decisions, HG requests to TM.
 - **PSn** — devPair class: pat + Sonnet. Default role: Chief Deputy (CD). CD is a **county-level** role: PR approve/reject/merge, actor assignments, CLAUDE.md ownership, scope decisions for `feat/*` and `refactor/*`.
-- **PHk** — devPair class: pat + Haiku. Default role: Town Marshal (TM). TM is a **town-level** role: branch lifecycle, worktree management, comms housekeeping, audits, docs, HG operational management. **Push authority: TM may push any commit that is TM-role work on `main`.**
+- **PHk** — devPair class: pat + Haiku. Default role: Town Marshal (TM). TM is a **town-level** role: branch lifecycle, worktree management, telegraph housekeeping, audits, docs, HG operational management. **Push authority: TM may push any commit that is TM-role work on `main`.**
 - **PGp** — pat + GPT (GitHub Copilot chat). Hired Gun (HG); impl only; no standing authority.
 - **PCx** — pat + GPT (Codex CLI). Hired Gun (HG); impl only; no standing authority. Async/independent.
 - **PRp** — pat + Raptor (GitHub Copilot). Hired Gun (HG); impl only; no standing authority.
