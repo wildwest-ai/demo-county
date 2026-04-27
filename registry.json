@@ -1,0 +1,35 @@
+{
+  "county": "tombstone",
+  "sot": {
+    "main_head": "",
+    "last_updated": "",
+    "updated_by": "P"
+  },
+  "authors": [
+    {
+      "code": "P",
+      "username": "pat",
+      "git_username": "pat",
+      "role": "Sheriff",
+      "joined": "founding"
+    },
+    {
+      "code": "W",
+      "username": "wyatt",
+      "git_username": "wyatt",
+      "role": "TBD",
+      "joined": "TBD"
+    }
+  ],
+  "towns": [
+    {
+      "name": "tombstone-app",
+      "path": "~/counties/tombstone/tombstone-app",
+      "remote": "https://github.com/Tombstone/tombstone-app.git",
+      "status": "town"
+    }
+  ],
+  "github_org": "Tombstone",
+  "github_remote": "https://github.com/wildwest-ai/demo-county.git",
+  "framework": "https://github.com/wildwest-ai/wildwest"
+}
